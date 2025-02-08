@@ -1,5 +1,3 @@
-# adidas-sales-analysis
-Adidas sales data analysis using SQL and Power BI
 # Adidas Sales Data Analysis Project
 
 ## 📌 Project Overview
